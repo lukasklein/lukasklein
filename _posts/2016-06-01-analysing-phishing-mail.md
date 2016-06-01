@@ -12,7 +12,7 @@ categories:
 Today I received the following mail in my inbox, pretending to be from someone
 who actually works at Cloud66:
 
-![Screenshot of the mail](/assets/images/2016-06-01-analysing-phishing-mail/01.png)
+![Screenshot of the mail](/assets/images/2016-06-01-analysing-phishing-mail/01.png?cachebreak)
 
 
 What's bothering me is that it has a valid DKIM signature, so it looks like her
