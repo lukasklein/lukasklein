@@ -94,21 +94,3 @@ mostly during my holidays.
 
 After completing an internship in the IT-department I did two vacation jobs.
 I helped with managing the company's network and programmed some scripts.
-
-
-# Educational History
-
-## 2012 - current: Ruhr-University Bochum
-
-Bochum, Germany: I am currently studying [IT security](http://ei.rub.de/studium/its/) in Bochum.
-
-
-## 2002 - 2011: Heinrich-Heine-Gymnasium
-
-Bottrop, Germany: My advanced courses were **maths** and **physics**.
-I passed the [CAE](http://cambridge-english-advanced.cambridgeesol.org/) and graduated in 2011.
-
-
-## 1999 - 2002: Fichteschule
-
-Bottrop, Germany: I skipped a year in elementary school.

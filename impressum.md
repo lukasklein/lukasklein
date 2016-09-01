@@ -7,8 +7,8 @@ permalink: /impressum/
 This site is maintained by
 
     Lukas Klein
-    Brockstr. 10A
-    48249 Dülmen
+    Auf der Worth 8
+    59394 Nordkirchen
     Germany
 
 You can contact me at lukas@lukasklein.com (E-Mail as well as iMessage).
